@@ -1,1 +1,1 @@
-# jshandson6
+# JS Handson 6 (Problem Solving)
